@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Frases de afirmações</string>
+    <string name="afirmacao7">Ninguem joga pedra em uma árvore sem frutos</string>
+    <string name="afirmacao2">A vida não vai te esperar estar pronto. Ou você encara, ou fica para trás.</string>
+    <string name="afirmacao3">Se você desistir hoje, amanhã estará no mesmo lugar.</string>
+    <string name="afirmacao4">A mediocridade não é destino, é escolha. Pare de se acomodar e decida ser grande.</string>
+    <string name="afirmacao5">"Seu problema não é falta de sorte. É falta de atitude.</string>
+    <string name="afirmacao6">Se você não mudar nada, nada vai mudar.</string>
+    <string name="afirmacao1">Fui tolo em acreditar que, mantendo os mesmos hábitos, chegaria a um destino diferente.</string>
+    <string name="afirmacao8">Melhor do que a pressa é a regularidade.</string>
+    <string name="afirmacao9">Alguém com menos talento que você está vencendo, porque trabalha mais.</string>
+    <string name="afirmacao10">Todo mundo quer vencer. Poucos querem pagar o preço.</string>
+</resources>
